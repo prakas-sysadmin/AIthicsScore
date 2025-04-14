@@ -64,3 +64,27 @@ pip install pandas fairlearn presidio-analyzer scikit-learn matplotlib fpdf shap
 streamlit run app.py
 ```
 ![image](https://github.com/user-attachments/assets/ff314c50-b11c-42a5-9946-8e0e8283978f)
+
+### 8. Finally the our UI is working!
+![image](https://github.com/user-attachments/assets/8f77062e-920a-44e1-bd77-f625851d6d42)
+
+### 9. Uploaded a Datasets in CSV Format.
+![image](https://github.com/user-attachments/assets/670ed80f-7d48-4673-aaac-15e9b480713d)
+
+![image](https://github.com/user-attachments/assets/68a85912-7968-4f01-9f50-d86bac35fcc4)
+
+![image](https://github.com/user-attachments/assets/ea10240b-8047-4975-b801-89f9892e1b21)
+
+### 10. Now its showing our scores.
+![image](https://github.com/user-attachments/assets/bc164c27-c4ce-42e4-95ab-8b0b221205c8)
+
+![image](https://github.com/user-attachments/assets/5ceb4406-69f9-49c4-b6a3-fe7373a7fa61)
+
+![image](https://github.com/user-attachments/assets/d47b7950-f438-47f6-bacb-889627a97a92)
+
+
+
+
+
+
+
