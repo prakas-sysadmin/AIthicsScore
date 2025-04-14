@@ -34,23 +34,32 @@ cd AIthicsScore
 ```bash
 python3 -V
 ```
+![image](https://github.com/user-attachments/assets/95b9935c-3f78-48aa-aac6-b02415fa7cf2)
+
 
 ### 3. Create/Setup python virtual environment by the below command.
 
 ```bash
 python3 -m venv venv
 ```
+![image](https://github.com/user-attachments/assets/b35deac3-a896-4919-8198-3c450cf56946)
+
 
 ### 4. Enable/Activate the python virtual environment
 
 ```bash
 source venv/bin/activate
 ```
+![image](https://github.com/user-attachments/assets/f163205e-54e9-41d9-9449-6fddf36af51a)
+
+
 ### 5. Check pip version
 
 ```bash
 pip -V
 ```
+![image](https://github.com/user-attachments/assets/d115ad8e-028a-4aec-b2a0-5820d64ff810)
+
 
 ### 6. Install Python liberies like (pandas fairlearn presidio-analyzer scikit-learn matplotlib fpdf shap lime joblib streamlit).
 
