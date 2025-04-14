@@ -18,6 +18,38 @@ AIthicsScore is a toolkit for evaluating the ethical risks associated with AI/ML
 
 ---
 
+## 🛠 Tech Stack
+
+- **Python 3**
+- **Streamlit**
+- **Pandas**, **Scikit-learn**
+- **Fairlearn**
+- **Presidio Analyzer**
+- **SHAP** & **LIME**
+- **FPDF**
+- **Matplotlib**
+
+---
+
+## 📄 License
+
+This project is **not licensed under** the **MIT License**. See the [LICENSE](LICENSE) file for more information.
+
+---
+
+## 🙌 Contributing
+
+Pull requests are welcome! If you'd like to contribute, feel free to **fork** the repo and submit a **pull request**.
+
+---
+
+## 📬 Contact
+
+**Maintainer**: Prakas  
+**Issues and suggestions**: [Open an issue](https://github.com/prakas-sysadmin/AIthicsScore/issues)
+
+---
+
 ## 🔧 Setup Instructions
 
 Follow these steps to get the project up and running:
