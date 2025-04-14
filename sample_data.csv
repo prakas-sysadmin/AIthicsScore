@@ -1,0 +1,5 @@
+name,email,gender,age,income,hired
+Alice,alice@example.com,Female,29,52000,1
+Bob,bob@example.com,Male,34,58000,0
+Cara,cara@example.com,Female,45,61000,1
+Dave,dave@example.com,Male,23,49000,0
