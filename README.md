@@ -3,7 +3,7 @@
 **Ethical Risk Scoring for AI Solutions**  
 [GitHub Repository](https://github.com/prakas-sysadmin/AIthicsScore.git)
 
-AIthicsScore is a toolkit for evaluating the ethical risks associated with AI/ML models. It leverages a variety of libraries to assess fairness, explainability, data privacy, and more to generate an ethical score for AI systems. This project aims to help developers, data scientists, and organizations build responsible and transparent AI systems.
+AIthicsScore is a toolkit for evaluating the ethical risks associated with AI/ML models or datasets. It leverages a variety of libraries to assess fairness, explainability, data privacy, and more to generate an ethical score for AI systems. This project aims to help developers, data scientists, and organizations build responsible and transparent AI systems.
 
 ---
 
