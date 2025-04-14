@@ -45,7 +45,7 @@ python3 -m venv venv
 
 ```bash
 source venv/bin/activate
-
+```
 ### 5. Check pip version
 
 ```bash
