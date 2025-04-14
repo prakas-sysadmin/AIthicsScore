@@ -27,3 +27,37 @@ Follow these steps to get the project up and running:
 ```bash
 git clone https://github.com/prakas-sysadmin/AIthicsScore.git
 cd AIthicsScore
+
+
+### 2. Check python version
+
+```bash
+python3 -V
+
+### 3. Create/Setup python virtual environment by the below command.
+
+```bash
+python3 -m venv venv
+
+### 4. Enable/Activate the python virtual environment
+
+```bash
+source venv/bin/activate
+
+### 5. Check pip version
+
+```bash
+pip -V
+
+### 6. Install Python liberies like (pandas fairlearn presidio-analyzer scikit-learn matplotlib fpdf shap lime joblib streamlit).
+
+```bash
+pip install pandas fairlearn presidio-analyzer scikit-learn matplotlib fpdf shap lime joblib streamlit 
+
+
+### 7. Finally run project by below commands
+
+```bash
+streamlit run app.py
+
+![image](https://github.com/user-attachments/assets/ff314c50-b11c-42a5-9946-8e0e8283978f)
